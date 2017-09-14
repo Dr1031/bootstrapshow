@@ -1,0 +1,60 @@
+@charset "UTF-8";
+/**
+ *
+ * @authors Marte (iqianduan@126.com)
+ * @date    2017-09-13 15:16:35
+ * @version $Id$
+ */
+
+body {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.carousel {
+    height: 550px;
+    background-color: #fff;
+}
+.carousel .item {
+    height: 550px;
+    background-color: #fff;
+}
+.carousel img {
+    width: 100%;
+}
+.carousel-caption {
+    margin-bottom:  10px;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 1.8;
+}
+#summary-container .col-md-4{
+    text-align: center;
+}
+.container .row {
+    padding-top: 20px;
+}
+
+.divider {
+    margin: 40px 0;
+}
+
+/* 标签页 */
+
+.tab-content .row .feature {
+    padding: 30px 0;
+}
+
+.feature-heading {
+    font-size: 50px;
+    color: #2a6496;
+    margin-top: 90px;
+}
+.feature-heading .text-muted {
+    font-size: 28px;
+    color: #999;
+}
+.img-fea {
+    margin-top: 40px;
+}
+
